@@ -1,5 +1,5 @@
 # Clement Nguyen
 
-| Username | Based in | Work | Focus | Contact |
+| Username | Based in | Focus | Contact |
 |---|---|---|---|---|
-| RobotWar05 | Hanoi, Vietnam | Embedded Engineer | Embedded Systems & Automation | [Email](mailto:nguyenviethoangluong@gmail.com) |
+| RobotWar05 | Hanoi, Vietnam | Embedded Systems & Automation | [Email](mailto:nguyenviethoangluong@gmail.com) |
