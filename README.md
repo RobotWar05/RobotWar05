@@ -1,3 +1,5 @@
-# Clement Nguyen
+<h1 align="center">Clement Nguyen</h1>
 
-Embedded Systems & Automation · Hanoi, Vietnam
+<p align="center">
+  Embedded Systems & Automation · Hanoi, Vietnam
+</p>
